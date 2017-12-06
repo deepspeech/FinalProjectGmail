@@ -1,0 +1,8 @@
+Python documents Total: 32
+
+References/ Copyright Credits:
+
+Years: 2006 - 2017 [present]
+(Student, Self) Priscilla Nunez, (Professor) C. Van Lent, (GSI) Niharika Ved, (GSI) Chong Li, Thomas Broyer, James Antill, Xavier Verges Farrero, Jonathan Feinberg, Blair Zajac, Sam Ruby, Louis Nyffenegger, Mark Pilgrim, Joe Gregorio, Jan Presperin
+
+Educational Institutions, Colleagues, Companies and Organizations: University of Michigan, MIT, Carnegie Mellon, Berkeley, University of California, University of Pittsburgh, Google Alphabet, Google API, DJango,Flask, SQLalchemy, Amazon Alexa API, Amazon AWS Lambda, Amazon Alexa, Python3.6
