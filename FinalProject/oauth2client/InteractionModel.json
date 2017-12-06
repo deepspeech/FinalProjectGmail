@@ -1,0 +1,41 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "INVOCATION", #NunezP 
+      "samples": [
+        "Update the Google drive",
+        "update drive",
+        "update drive with {something}",
+        "upload {something} {somethingTWO}",
+        "note {something} {somethingTWO}",
+        "upload {something}",
+        "note {something}",
+        "update drive with {something} {somethingTWO}"
+      ],
+      "slots": [
+        {
+          "name": "something",
+          "type": "AMAZON.Animal",
+          "samples": []
+        },
+        {
+          "name": "somethingTWO",
+          "type": "AMAZON.Animal",
+          "samples": []
+        }
+      ]
+    }
+  ]
+}
