@@ -9,7 +9,7 @@ iri2uri
 Converts an IRI to a URI.
 
 """
-__author__ = "Priscilla Nunez (nunezp@umich.edu)"
+__author__ = "Priscilla Nunez (Pxxx@umich.xxx)"
 __copyright__ = "Copyright 2017, Priscilla Nunez"
 __contributors__ = []
 __version__ = "1.0.0"
